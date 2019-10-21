@@ -1,0 +1,658 @@
+/* header starts here */
+.mid{
+  width:70%;
+  margin:auto;
+}
+.header{
+ height:70px;
+ background: linear-gradient(#139676,#10846f);
+ overflow: hidden;
+}
+.header .left-menu .logo{
+  float: left;
+  margin-top:10px;
+}
+.header .left-menu .menu1{
+  float: left;
+  margin-top:10px;
+}
+.header a{
+  color: #fff;
+}
+.header .left-menu{
+  float: left;
+}
+.header .left-menu ul li{
+  display: inline-block;
+  padding: 5px 20px;
+
+}
+.header .right-menu{
+  float: right;
+  margin-top:10px;
+}
+.header .right-menu ul li{
+  display: inline-block;
+  padding: 5px 20px;
+}
+.menu1 .english{
+  border:1px solid #007168;
+  border-radius:5px;
+}
+.right-menu ul li i{
+  color:#fff;
+}
+.right-menu ul li:nth-child(3){
+  border:1px solid #fea91d;
+  background:linear-gradient(#fadf98,#feac23);
+  border-radius:5px;
+  padding: 12px 22px;
+
+}
+.right-menu ul li:nth-child(3) a{
+  color: #000;
+
+
+}
+.header .left-menu{
+  margin-top:7px;
+}
+.header .right-menu{
+  margin-top:12px;
+}
+/* header ends here */
+/* bangladesh section starts here */
+.left{
+width:50%;
+float: left;
+}
+.middle{
+  width:30%;
+  float: left;
+}
+.right{
+  width:20%;
+  float: left;
+}
+.bangladesh .right a {
+  display: block;
+  text-align: right;
+  padding: 3px 0px;
+  font-size:15px;
+  color:#0074ba;
+}
+.bangladesh .right a:hover{
+  color: #000;
+}
+.bangladesh .right h2{
+  text-align: right;
+  font-size:16px;
+}
+.bangladesh{
+ border:1px solid #009877;
+ height:500px;
+}
+.left-top h1{
+  font-size:25px;
+}
+.left-top h1 span{
+  display: block;
+}
+.left-top p{
+color:#707676;
+font-size:15px;
+}
+.left-top p span{
+  display: block;
+}
+.sprite .sprite-top .sprite-main1,
+.sprite .sprite-top .sprite-main2,
+.sprite .sprite-top .sprite-main3,
+.sprite .sprite-top .sprite-main4
+{
+  float: left;
+}
+
+.sprite .sprite-top .sprite-div1{
+  width:35px;
+  height:38px;
+  overflow: hidden;
+
+  position: relative;
+
+}
+.sprite .sprite-top .sprite-div1 img{
+  position: absolute;
+  top:-359px;
+
+}
+.sprite .sprite-top .sprite-div2{
+  width:35px;
+  height:38px;
+  overflow: hidden;
+
+  position: relative;
+  float: left;
+}
+.sprite .sprite-top .sprite-div2 img{
+  position: absolute;
+  top:-468px;
+
+}
+.sprite .sprite-top .sprite-div3{
+  width:35px;
+  height:38px;
+  overflow: hidden;
+
+  position: relative;
+  float: left;
+}
+.sprite .sprite-top .sprite-div3 img{
+  position: absolute;
+  top:-539px;
+
+}
+.sprite .sprite-top .sprite-div4{
+  width:35px;
+  height:38px;
+  overflow: hidden;
+
+  position: relative;
+  float: left;
+}
+.sprite .sprite-top .sprite-div4 img{
+  position: absolute;
+  top:-322px;
+
+}
+.sprite-div1,.sprite-div2,
+.sprite-div3,.sprite-div4{
+  padding: 0px 20px;
+  margin: 0px 10px;
+}
+.sprite-text1,
+.sprite-text2,
+.sprite-text3,
+.sprite-text4{
+  margin-left:28px;
+}
+.sprite-text1 a,
+.sprite-text2 a,
+.sprite-text3 a,
+.sprite-text4 a{
+  color:#3bb2e4;
+}
+.sprite-text1 a:hover,
+.sprite-text2 a:hover,
+.sprite-text3 a:hover,
+.sprite-text4 a:hover{
+  color:#47547e;
+}
+.sprite{
+  position: relative;
+  width:480px;
+  border:1px solid #d4ded9;
+  height:150px;
+  border-radius:5px;
+  margin-top:15px;
+
+}
+.left-bottom .sprite-bottom{
+  color:#707676;
+  position: absolute;
+  top:100px;
+}
+.left-bottom{
+  margin-top:100px;
+}
+.sprite-bottom{
+  margin-left:0px;
+  margin-top:-10px;
+  border-top:1px solid #d4ded9;
+
+  width:480px;
+}
+.sprite-bottom p{
+  margin-left:12px;
+  margin-top:8px;
+  font-size:15px;
+  text-align:center;
+
+}
+.sprite-top{
+ margin-top: 17px;
+ margin-left:38px;
+}
+.sprite-bottom img{
+  width:20px;
+  height:20px;
+}
+.sprite-bottom span{
+  background-color:#b4352d;
+  color:#fff;
+  font-size:12px;
+}
+.sprite-bottom a{
+  color:#3bb2e4
+}
+.sprite-bottom a:hover{
+  color:#47547e;
+}
+.left{
+  margin-top:30px;
+}
+.middle{
+  margin-top:15px;
+}
+.right{
+  margin-top:37px;
+}
+.right .bivag{
+  padding:5px 0px;
+  margin-top:10px;
+}
+/* bangladesh section ends here */
+/* items section starts here */
+.items{
+  background-color:#e7edee;
+  overflow: hidden;
+  height:1000px;
+  border-bottom:5px solid #009877;
+
+
+}
+.items .mid{
+  background-color: #fff;
+  border-radius:5px;
+  border-bottom:3px solid #d5e1e6;
+}
+.row1 {
+  height:220px;
+  margin-top:10px;
+}
+.electronics,.mobile,.vehicle,.home
+
+{
+  margin-top:20px;
+  width:25%;
+  float: left;
+  text-align: center;
+}
+.electronics .hover1 a:hover h1{
+  color:#00547e;
+}
+.mobile .hover1 a:hover h1{
+  color:#00547e;
+}
+.vehicle .hover1 a:hover h1{
+  color:#00547e;
+}
+.home .hover1 a:hover h1{
+  color:#00547e;
+}
+.row2{
+
+  height:170px;
+
+}
+.property,.fashion,.pet,.hobby
+
+{
+  width:25%;
+  float: left;
+  text-align: center;
+}
+.property .hover1 a:hover h1{
+  color:#00547e;
+}
+.fashion .hover1 a:hover h1{
+  color:#00547e;
+}
+.pet .hover1 a:hover h1{
+  color:#00547e;
+}
+.hobby .hover1 a:hover h1{
+  color:#00547e;
+}
+.row3{
+
+  height:180px;
+
+}
+.edu,.biz,.service,.agri
+
+{
+  width:25%;
+  float: left;
+  text-align: center;
+}
+.edu .hover1 a:hover h1{
+  color:#00547e;
+}
+.biz .hover1 a:hover h1{
+  color:#00547e;
+}
+.service .hover1 a:hover h1{
+  color:#00547e;
+}
+.agri .hover1 a:hover h1{
+  color:#00547e;
+}
+.row4{
+
+  height:160px;
+
+}
+.job
+
+{
+  width:25%;
+  float: left;
+  text-align: center;
+}
+.job .hover1 a:hover h1{
+  color:#00547e;
+}
+
+.electronics .sprite-e{
+  width:37px;;
+  height:36px;
+
+  overflow:hidden;
+  position: relative;
+  margin: auto;
+}
+.electronics .sprite-e img{
+  position: absolute;
+  top:-107px;
+  left: 1px;
+
+}
+.mobile .sprite-m{
+  width:37px;;
+  height:36px;
+
+  overflow:hidden;
+  position: relative;
+  margin: auto;
+}
+.mobile .sprite-m img{
+  position: absolute;
+  top:-360px;
+  left: 1px;
+
+}
+.vehicle .sprite-v{
+  width:37px;;
+  height:36px;
+
+  overflow:hidden;
+  position: relative;
+  margin: auto;
+}
+.vehicle .sprite-v img{
+  position: absolute;
+  top:-539px;
+  left: 1px;
+
+}
+.home .sprite-h{
+  width:37px;;
+  height:36px;
+
+  overflow:hidden;
+  position: relative;
+  margin: auto;
+}
+.home .sprite-h img{
+  position: absolute;
+  top:-252px;
+  left: 1px;
+
+}
+.property .sprite-p{
+  width:37px;;
+  height:36px;
+
+  overflow:hidden;
+  position: relative;
+  margin: auto;
+}
+.property .sprite-p img{
+  position: absolute;
+  top:-468px;
+  left: 1px;
+
+}
+.fashion .sprite-f{
+  width:37px;;
+  height:36px;
+
+  overflow:hidden;
+  position: relative;
+  margin: auto;
+}
+.fashion .sprite-f img{
+  position: absolute;
+  top:-144px;
+  left: 1px;
+
+}
+.pet .sprite-pet{
+  width:37px;;
+  height:36px;
+
+  overflow:hidden;
+  position: relative;
+  margin: auto;
+}
+.pet .sprite-pet img{
+  position: absolute;
+  top:0px;
+  left: 1px;
+
+}
+.hobby .sprite-hobby{
+  width:37px;;
+  height:36px;
+
+  overflow:hidden;
+  position: relative;
+  margin: auto;
+}
+.hobby .sprite-hobby img{
+  position: absolute;
+  top:-216px;
+  left: 1px;
+
+}
+.edu .sprite-edu{
+  width:37px;;
+  height:36px;
+
+  overflow:hidden;
+  position: relative;
+  margin: auto;
+}
+.edu .sprite-edu img{
+  position: absolute;
+  top:-431px;
+  left: 1px;
+
+}
+.biz .sprite-biz{
+  width:37px;;
+  height:36px;
+
+  overflow:hidden;
+  position: relative;
+  margin: auto;
+}
+.biz .sprite-biz img{
+  position: absolute;
+  top:-36px;
+  left: 1px;
+}
+.service .sprite-service{
+  width:37px;;
+  height:36px;
+
+  overflow:hidden;
+  position: relative;
+  margin: auto;
+}
+.service .sprite-service img{
+  position: absolute;
+  top:-504px;
+  left: 1px;
+}
+.agri .sprite-agri{
+  width:37px;;
+  height:36px;
+
+  overflow:hidden;
+  position: relative;
+  margin: auto;
+}
+.agri .sprite-agri img{
+  position: absolute;
+  top:-180px;
+  left: 1px;
+}
+.job .sprite-j{
+  width:37px;;
+  height:36px;
+
+  overflow:hidden;
+  position: relative;
+  margin: auto;
+}
+.job .sprite-j img{
+  position: absolute;
+  top:-288px;
+  left: 1px;
+}
+
+.electronics h1,.mobile h1,.vehicle h1,.home h1,
+.property h1,.fashion h1,.pet h1,.hobby h1,
+.edu h1,.biz h1,.service h1,.agri h1,.job
+h1{
+  color:#0074ba;
+  font-size:17px;
+
+}
+.electronics p,.mobile p,.vehicle p,.home p,
+.property p,.fashion p,.pet p,.hobby p,
+.edu p,.biz p,.service p,.agri p,.job
+p{
+  color:#707676;
+  font-size:13px;
+  line-height:18px;
+
+}
+.ad-button{
+  text-align: center;
+}
+.ad-button h1{
+  font-size:25px;
+  color:#3a3432;
+  font-weight:200;
+}
+.ad-button h2{
+  font-size:20px;
+  color:#3a3432;
+  font-weight:200;
+}
+.ad-button ul li{
+  display: inline-block;
+}
+.ad-button a {
+  color:#7a3500;
+  font-weight: bold;
+  width:100px;
+  height:50px;
+  border-radius:3px;
+  border-bottom: 2px solid #afb7ad;
+  background: linear-gradient(#fae19d,#ffbd00);
+  padding:13px 15px;
+}
+.ad-button a:hover {
+  background: linear-gradient(#fadd8c,#fec00d);
+}
+/* ends item section here */
+/* starts footer section here */
+.footer{
+  padding: 25px 0px;
+  height:170px;
+}
+
+.footer .mid{
+  border-bottom:1px solid #d4ded9;
+  height:230px;
+}
+.footer .footer1 img{
+  width:142px;
+  height:50px;
+}
+.footer1 .fb img{
+  width:35px;
+  height:35px;
+}
+.footer1 .fb .fb-logo{
+  float: left;
+}
+.footer1 .fb .fb-text{
+  float: left;
+  margin-top:8px;
+  margin-left:5px;
+}
+.footer1 .fb .fb-text h2{
+  font-size:14px;
+  color: #0074ba;
+}
+.footer1 h3{
+  font-size:13px;
+}
+.footer1 h2{
+  font-size:14px;
+}
+.footer1,.footer2,.footer3,.footer4,.footer5{
+  float: left;
+  padding: 0px 15px;
+  margin-left:3px;
+}
+.footer1 h2,.footer2 h2,.footer3 h2,.footer4 h2,.footer5 h2{
+  font-size:13px;
+  color:#2f3432;
+  margin-bottom:13px;
+}
+.footer1 ul li a,.footer2 ul li a,.footer3 ul li a,
+.footer4 ul li a,.footer5 ul li a{
+  font-size:15px;
+  color:#0074ba;
+  line-height: 25px;
+}
+.footer1 ul li a:hover ,.footer2 ul li a:hover ,.footer3 ul li a:hover ,
+.footer4 ul li a:hover ,.footer5 ul li a:hover {
+  color:#00547e;
+}
+/* footer ends here */
+/* footer-bottom statrs here */
+.footer-bottom{
+  height:100px;
+}
+.footer-bottom .left{
+  float: left;
+}
+.footer-bottom .right{
+  float:right;
+}
+.footer-bottom .left p{
+  font-size:13px;
+  margin-top:10px;
+  color:#2f3432;
+}
+.footer-bottom .right img{
+  margin-left:80px;
+  margin-top:5px;
+}
